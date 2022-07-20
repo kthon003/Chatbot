@@ -1,3 +1,5 @@
+#Full documentation of the project
 https://csns.cysun.org/department/cs/project/view?id=7250423
 
+#Github where the project was submitted
 https://github.com/csula-kejjy/pineapple-chatbot
